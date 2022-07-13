@@ -3,6 +3,12 @@ display: flex;
 flex-direction: column;
 }
 
+.head,
+.footer,
+.main {
+    background-color: #1F2937;
+}
+
 .head {
     display: flex;
     justify-content: space-between;
