@@ -40,3 +40,8 @@ a {
 display: flex;
 justify-content: space-between;
 }
+
+.call-to-action .container {
+    display: flex;
+    flex-direction: column;
+}
