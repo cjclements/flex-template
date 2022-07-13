@@ -19,6 +19,13 @@ font-family: sans-serif;
     font-size: 24px;
     color: #F9FAF8;
 }
+
+a,
+.main-content .text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 ul {
     display: flex;
     margin: 0;
