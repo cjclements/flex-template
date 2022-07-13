@@ -35,3 +35,8 @@ a {
 .info-cards {
     display: flex;
 }
+
+.call-to-action {
+display: flex;
+justify-content: space-between;
+}
