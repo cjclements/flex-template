@@ -7,9 +7,15 @@ flex-direction: column;
     display: flex;
     justify-content: space-between;
 }
+
 ul {
     display: flex;
     margin: 0;
     padding: 0;
     gap: 16px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
