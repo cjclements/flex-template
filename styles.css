@@ -143,6 +143,16 @@ justify-content: space-between;
     flex-direction: column;
 }
 
+button {
+    padding: 8px 16px;
+    border-radius: 8px;
+  }
+
+.call-to-action button {
+    border: 1px solid #F9FAF8;
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
 .footer {
     display: flex;
     justify-content: center;
