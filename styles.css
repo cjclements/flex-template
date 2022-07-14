@@ -97,6 +97,7 @@ a {
 .info-text {
     max-width: 100px;
     color: #1F2937;
+    text-align: center;
 }
 
 .info-cards {
