@@ -153,6 +153,14 @@ justify-content: space-between;
     flex: 1;
 }
 
+.call-to-action .container .header {
+    font-weight: 900;
+}
+
+.call-to-action .container .text {
+    font-weight: 100;
+}
+
 button {
     padding: 8px 32px;
     border-radius: 8px;
