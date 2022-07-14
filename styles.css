@@ -11,6 +11,7 @@ font-family: sans-serif;
     font-size: 24px;
     color: #F9FAF8;
     flex-wrap: wrap;
+    padding: 24px 64px;
 }
 
 .logo {
