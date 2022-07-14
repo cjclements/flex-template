@@ -69,6 +69,12 @@ a {
     flex: 1;
 }
 
+.main-content button {
+    border: 1px solid #3882F6;
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
 .info-container {
     display: flex;
     flex-direction: column;
@@ -147,8 +153,9 @@ justify-content: space-between;
 }
 
 button {
-    padding: 8px 16px;
+    padding: 8px 32px;
     border-radius: 8px;
+    margin: 16px 0px;
   }
 
 .call-to-action button {
