@@ -59,6 +59,10 @@ a {
     width: 400px;
     height: 200px;
     background-color: #969696;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .main-content {
