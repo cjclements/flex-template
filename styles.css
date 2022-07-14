@@ -50,6 +50,11 @@ a {
     color: #F9FAF8;
 }
 
+.main .img {
+    width: 800px;
+    height: 300px
+}
+
 .info-container {
     display: flex;
     flex-direction: column;
