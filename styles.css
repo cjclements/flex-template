@@ -128,6 +128,16 @@ justify-content: space-between;
     justify-content: flex-end;
 }
 
+.call-to-action {
+    background-color: #3882F6;
+    display: flex;
+    flex-wrap: wrap;
+    color: #F9FAF8;
+    margin: 64px;
+    padding: 32px 64px;
+    border-radius: 6px;
+}
+
 .call-to-action .container {
     display: flex;
     flex-direction: column;
