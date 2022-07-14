@@ -82,6 +82,10 @@ a {
     display: flex;
 }
 
+.info {
+    margin: 24px;
+}
+
 .call-to-action {
 display: flex;
 justify-content: space-between;
