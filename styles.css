@@ -80,6 +80,7 @@ a {
 
 .info-cards {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .info {
