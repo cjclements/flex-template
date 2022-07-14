@@ -67,6 +67,12 @@ a {
     border-radius: 10px;
 }
 
+.info-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
 .info-cards {
     display: flex;
 }
