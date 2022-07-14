@@ -38,9 +38,11 @@ a {
 
 .main {
     display: flex;
-    justify-content: center;
     align-items: center;
     background-color: #1F2937;
+    padding: 64px;
+    gap: 32px;
+    flex-wrap: wrap-reverse;
 }
 
 .main .header {
@@ -50,8 +52,13 @@ a {
 }
 
 .main .img {
-    width: 800px;
-    height: 300px
+    width: 400px;
+    height: 200px;
+    background-color: #969696;
+}
+
+.main-content {
+    flex: 1;
 }
 
 .info-container {
