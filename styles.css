@@ -73,6 +73,11 @@ a {
     color: #1F2937;
 }
 
+.info-text {
+    max-width: 100px;
+    color: #1F2937;
+}
+
 .info-cards {
     display: flex;
 }
