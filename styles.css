@@ -138,4 +138,8 @@ justify-content: space-between;
     justify-content: center;
     align-items: center;
     background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 24px;
+    font-weight: lighter;
+    font-size: 14px;
 }
